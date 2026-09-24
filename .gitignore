@@ -1,0 +1,13 @@
+# The Android game itself is not part of this repository.
+orig_r36s/
+*.so
+*.so.*
+*.apk
+*.obb
+*.eapx
+saves/
+logs/
+masseffect_present
+deadspace_present
+libsticksnap.so
+*.log
